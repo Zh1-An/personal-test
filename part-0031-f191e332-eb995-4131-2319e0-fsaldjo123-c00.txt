@@ -1,0 +1,4 @@
+bash\n~/.openclaw/workspace/skills/baidu-search/scripts baidu_baike.sh \'词条名称\"\n^^^^^n\n"时间筛选*:week(7天)/month(30天)/semiyear(180天)year(365天)\n*可选模型 :ernie-4.5-turbo32k(默认)/deepseek-v3/deepseek-r1\n\n----\n\n##公司代理膳务器\n\n网络不通或不顺畅时使用:
+secret:
+username:admin
+password:admin@13131313414
